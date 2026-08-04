@@ -40,7 +40,7 @@ El corpus cubre tres fenómenos—inteligencia artificial en el sector defensa, 
 ├── README.md
 ├── requirements.txt
 ├── src/
-│   ├── extraccion/        ← Fase 1
+│   ├── extraction/        ← Fase 1
 │   ├── limpieza.py        ← Fase 2
 │   ├── chunking.py        ← Fase 3
 │   ├── encoders.py        ← Fase 4
