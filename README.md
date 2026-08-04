@@ -1,6 +1,6 @@
 # CODEFEST Ad Astra 2026 — Etapa 1
 
-**Reto:** Construcción de la Base de Conocimiento | **Organizan:** Universidad de los Andes · Fuerza Aeroespacial Colombiana | **EQUIPO \<nombre\>**
+**Reto:** Construcción de la Base de Conocimiento | **Organizan:** Universidad de los Andes · Fuerza Aeroespacial Colombiana | **EQUIPO Talon Systems**
 
 ## Equipo
 
