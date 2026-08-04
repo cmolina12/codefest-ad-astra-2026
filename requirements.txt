@@ -6,3 +6,9 @@ pysbd
 numpy
 pandas
 jupyter
+py3langid
+pymupdf
+beautifulsoup4
+lxml
+pytesseract
+pillow
