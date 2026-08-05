@@ -8,6 +8,13 @@ LIMITE_DURO = 250
 
 _RE_FALLBACK = re.compile(r"(?<=[.!?…])\s+(?=[A-ZÁÉÍÓÚÑÜ¿¡«\"(\d])")
 
+_ABREVIATURAS = {
+    "p.", "ej.", "etc.", "vs.", "art.", "núm.", "no.", "fig.", "cap.", "pág.",
+    "ss.", "aprox.", "ed.", "eds.", "vol.", "op.", "cit.", "cf.", "i.e.", "e.g.",
+    "ca.", "km.", "ha.", "hab.", "sr.", "sra.", "dr.", "dra.", "prof.", "ing.",
+}
+
+
 def contar_palabras(texto: str) -> int:
     return len(texto.split())
 
