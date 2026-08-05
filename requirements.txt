@@ -12,3 +12,5 @@ beautifulsoup4
 lxml
 pytesseract
 pillow
+osmium
+easyocr 
